@@ -1,0 +1,27 @@
+F:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\obj\Release\TotalAnarchyGameServer.csproj.CoreCompileInputs.cache
+C:\Users\q5058597\Source\Computing Project Server\GameServer\TotalAnarchyGameServer\obj\Release\TotalAnarchyGameServer.csprojAssemblyReference.cache
+C:\Users\q5058597\Source\Computing Project Server\GameServer\TotalAnarchyGameServer\obj\Release\TotalAnarchyGameServer.csproj.CoreCompileInputs.cache
+C:\Users\Q5058597\Source\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\TotalAnarchyGameServer.exe.config
+C:\Users\Q5058597\Source\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\TotalAnarchyGameServer.exe
+C:\Users\Q5058597\Source\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\TotalAnarchyGameServer.pdb
+C:\Users\Q5058597\Source\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\Newtonsoft.Json.dll
+C:\Users\Q5058597\Source\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Q5058597\Source\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\Newtonsoft.Json.xml
+C:\Users\Q5058597\Source\Computing Project Server\GameServer\TotalAnarchyGameServer\obj\Release\TotalAnarchyGameServer.csproj.CopyComplete
+C:\Users\Q5058597\Source\Computing Project Server\GameServer\TotalAnarchyGameServer\obj\Release\TotalAnarchyGameServer.exe
+C:\Users\Q5058597\Source\Computing Project Server\GameServer\TotalAnarchyGameServer\obj\Release\TotalAnarchyGameServer.pdb
+C:\Users\Q5058597\Source\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\ByteBuffer.dll
+C:\Users\Q5058597\Source\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\ByteBuffer.pdb
+I:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\TotalAnarchyGameServer.exe.config
+I:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\TotalAnarchyGameServer.exe
+I:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\TotalAnarchyGameServer.pdb
+I:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\ByteBuffer.dll
+I:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\Newtonsoft.Json.dll
+I:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\ByteBuffer.pdb
+I:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\Newtonsoft.Json.pdb
+I:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\bin\Release\Newtonsoft.Json.xml
+I:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\obj\Release\TotalAnarchyGameServer.csprojAssemblyReference.cache
+I:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\obj\Release\TotalAnarchyGameServer.csproj.CoreCompileInputs.cache
+I:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\obj\Release\TotalAnarchyGameServer.csproj.CopyComplete
+I:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\obj\Release\TotalAnarchyGameServer.exe
+I:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\obj\Release\TotalAnarchyGameServer.pdb

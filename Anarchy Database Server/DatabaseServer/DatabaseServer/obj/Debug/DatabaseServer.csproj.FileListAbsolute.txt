@@ -1,0 +1,38 @@
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\obj\Debug\DatabaseServer.csproj.CoreCompileInputs.cache
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\obj\Debug\DatabaseServer.csprojAssemblyReference.cache
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\DatabaseServer.exe.config
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\DatabaseServer.exe
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\DatabaseServer.pdb
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\ByteBuffer.dll
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\ByteBuffer.pdb
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\obj\Debug\DatabaseServer.csproj.CopyComplete
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\obj\Debug\DatabaseServer.exe
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\obj\Debug\DatabaseServer.pdb
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\EntityFramework.dll
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\System.Data.SQLite.dll
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\EntityFramework.xml
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\System.Data.SQLite.xml
+E:\Unity\Total Anarchy\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\System.Data.SQLite.dll.config
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\DatabaseServer.exe.config
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\DatabaseServer.exe
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\DatabaseServer.pdb
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\ByteBuffer.dll
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\EntityFramework.dll
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\EntityFramework.SqlServer.dll
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\System.Data.SQLite.dll
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\System.Data.SQLite.EF6.dll
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\System.Data.SQLite.Linq.dll
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\ByteBuffer.pdb
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\EntityFramework.xml
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\EntityFramework.SqlServer.xml
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\System.Data.SQLite.xml
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\bin\Debug\System.Data.SQLite.dll.config
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\obj\Debug\DatabaseServer.csprojAssemblyReference.cache
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\obj\Debug\DatabaseServer.csproj.CoreCompileInputs.cache
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\obj\Debug\DatabaseServer.csproj.CopyComplete
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\obj\Debug\DatabaseServer.exe
+E:\TotalAnarchyProject\Anarchy Database Server\DatabaseServer\DatabaseServer\obj\Debug\DatabaseServer.pdb
